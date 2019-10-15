@@ -14,6 +14,7 @@ Differencing and merging this type of file (which cannot be handled using GitHub
 
 Please follow this basic advice when changing files and sending a pull request:
 
+- List the slide numbers where you made changes
 - Only make the minimal amount of changes necessary
 - In your commit message list the affected slides and explain the change
 - Break up any larger contribution into small and semantically closed steps

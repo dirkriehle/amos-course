@@ -1,4 +1,4 @@
-# Agile Methods and Open Source (AMOS)
+# Agile Methods and Open Source [AMOS]
 
 Students learn Scrum by developing an open source software as a team project over the course of a semester.
 

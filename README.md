@@ -1,20 +1,9 @@
-# Agile Methods and Open Source (AMOS)
+# Agile Methods and Open Source [AMOS]
 
-This course teaches agile methods in a university context using a single semester-long project.
+Students learn Scrum by developing an open source software as a team project over the course of a semester.
 
-Overview: https://dirkriehle.com/open-courses/agile-methods-and-open-source/
+Overview is at https://profriehle.com/open-courses/agile-methods-and-open-source/
 
-Youtube: https://www.youtube.com/playlist?list=PLQ2ODVSeOYlWdmgCRPaTKBzhxl-mu5J2h
+YouTube playlist is at https://youtube.com/playlist?list=PLQ2ODVSeOYlV4yfIzYk_SkS2kQKxiHQAa
 
-## Class sessions
-
-The class sessions cover about half of the semester and leave room for guest speakers.
-
-- Course Introduction
-- Project Management
-- Software Processes
-- Agile Product Management
-- Agile Software Development
-- Agile Quality Assurance
-- Agile Process Improvement
-- AMOS Demo Day!
+The slides are here at https://github.com/dirkriehle/amos-course/
